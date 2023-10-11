@@ -59,3 +59,12 @@
 2. git add
 3. git commit
 4. git push
+
+Чтобы форкнуть репозиторий:
+1. Открываем ссылку
+2. Нажимаем Fork
+3. Даём имя новому репозиторию
+4. Create fork
+5. Создаем новую папку
+6. Open Folder в VSC
+7. Clone Git Repository
